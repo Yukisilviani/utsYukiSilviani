@@ -206,7 +206,7 @@ class _MembershipWidgetState extends State<MembershipWidget> {
                         ),
                         Padding(
                           padding:
-                              EdgeInsetsDirectional.fromSTEB(10, 20, 10, 10),
+                              EdgeInsetsDirectional.fromSTEB(10, 10, 10, 10),
                           child: Container(
                             width: 450,
                             height: 120,
@@ -301,7 +301,7 @@ class _MembershipWidgetState extends State<MembershipWidget> {
                       ),
                     ),
                     Padding(
-                      padding: EdgeInsetsDirectional.fromSTEB(0, 20, 0, 0),
+                      padding: EdgeInsetsDirectional.fromSTEB(0, 2, 0, 0),
                       child: Container(
                         width: 350,
                         height: 132,
@@ -318,7 +318,7 @@ class _MembershipWidgetState extends State<MembershipWidget> {
                       ),
                     ),
                     Padding(
-                      padding: EdgeInsetsDirectional.fromSTEB(0, 20, 0, 0),
+                      padding: EdgeInsetsDirectional.fromSTEB(0, 5, 0, 0),
                       child: Container(
                         width: 350,
                         height: 132,
@@ -335,7 +335,7 @@ class _MembershipWidgetState extends State<MembershipWidget> {
                       ),
                     ),
                     Padding(
-                      padding: EdgeInsetsDirectional.fromSTEB(0, 20, 0, 0),
+                      padding: EdgeInsetsDirectional.fromSTEB(0, 5, 0, 0),
                       child: Container(
                         width: 350,
                         height: 132,
